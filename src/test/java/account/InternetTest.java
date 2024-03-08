@@ -7,7 +7,7 @@ public class InternetTest {
 	@Test(groups ="regression")
 	public void praticeTest()
 	{
-		System.out.println("----Internet pass-------");
+		System.out.println("----Regression Internet pass-------");
 	}
 
 }
