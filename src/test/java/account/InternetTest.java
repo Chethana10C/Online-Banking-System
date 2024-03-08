@@ -4,10 +4,10 @@ import org.testng.annotations.Test;
 
 public class InternetTest {
 	
-	@Test(groups ="RegressionSuite")
+	@Test(groups ="regressionSuite")
 	public void praticeTest()
 	{
-		System.out.println("----Regressionsuite Internet pass-------");
+		System.out.println("----regressionsuite Internet pass-------");
 	}
 
 }
