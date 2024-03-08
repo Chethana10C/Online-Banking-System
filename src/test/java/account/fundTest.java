@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class fundTest {
 	
-	@Test
+	@Test(groups ="smokesuite")
 	public void praticeTest()
 	{
 		System.out.println("----fund pass-------");
