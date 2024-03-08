@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 
 public class InternetTest {
 	
-	@Test(groups ="regression")
+	@Test(groups ="Regression")
 	public void praticeTest()
 	{
 		System.out.println("----Regression Internet pass-------");

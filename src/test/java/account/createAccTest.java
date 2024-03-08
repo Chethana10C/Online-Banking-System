@@ -4,10 +4,11 @@ import org.testng.annotations.Test;
 
 public class createAccTest {
 	
-	@Test(groups ="smokesuite, regression")
+	@Test(groups ="smoke, regression")
 	public void praticeTest()
 	{
-		System.out.println("----smoke & regression create pass-------");
+		System.out.println("----smoke create pass-------");
+		System.out.println("----regression create pass-------");
 	}
 
 }
